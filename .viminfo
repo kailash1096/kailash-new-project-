@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1659707583,,"wq"
+|2,0,1659709075,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,48 @@
 # Registers:
 
 # File marks:
-'0  1  11  ~/myfile1.java
-|4,48,1,11,1659707583,"~/myfile1.java"
-'1  1  27  ~/kailash2
-|4,49,1,27,1659706692,"~/kailash2"
-'2  1  27  ~/kailash2
-|4,50,1,27,1659706632,"~/kailash2"
+'0  1  23  ~/hale/mekailash
+|4,48,1,23,1659709075,"~/hale/mekailash"
+'1  1  9  ~/hale/rajkumar
+|4,49,1,9,1659709024,"~/hale/rajkumar"
+'2  1  10  ~/hale/mom
+|4,50,1,10,1659708734,"~/hale/mom"
+'3  1  11  ~/myfile1.java
+|4,51,1,11,1659707583,"~/myfile1.java"
+'4  1  27  ~/kailash2
+|4,52,1,27,1659706692,"~/kailash2"
+'5  1  27  ~/kailash2
+|4,53,1,27,1659706632,"~/kailash2"
 
 # Jumplist (newest first):
+-'  1  23  ~/hale/mekailash
+|4,39,1,23,1659709075,"~/hale/mekailash"
+-'  1  9  ~/hale/rajkumar
+|4,39,1,9,1659709024,"~/hale/rajkumar"
+-'  1  9  ~/hale/rajkumar
+|4,39,1,9,1659709024,"~/hale/rajkumar"
+-'  1  10  ~/hale/mom
+|4,39,1,10,1659708734,"~/hale/mom"
+-'  1  10  ~/hale/mom
+|4,39,1,10,1659708734,"~/hale/mom"
+-'  1  10  ~/hale/mom
+|4,39,1,10,1659708734,"~/hale/mom"
+-'  1  10  ~/hale/mom
+|4,39,1,10,1659708734,"~/hale/mom"
+-'  1  11  ~/myfile1.java
+|4,39,1,11,1659707583,"~/myfile1.java"
+-'  1  11  ~/myfile1.java
+|4,39,1,11,1659707583,"~/myfile1.java"
+-'  1  11  ~/myfile1.java
+|4,39,1,11,1659707583,"~/myfile1.java"
+-'  1  11  ~/myfile1.java
+|4,39,1,11,1659707583,"~/myfile1.java"
+-'  1  11  ~/myfile1.java
+|4,39,1,11,1659707583,"~/myfile1.java"
+-'  1  11  ~/myfile1.java
+|4,39,1,11,1659707583,"~/myfile1.java"
+-'  1  11  ~/myfile1.java
+|4,39,1,11,1659707583,"~/myfile1.java"
 -'  1  11  ~/myfile1.java
 |4,39,1,11,1659707583,"~/myfile1.java"
 -'  1  27  ~/kailash2
@@ -40,11 +74,90 @@
 -'  1  27  ~/kailash2
 |4,39,1,27,1659706692,"~/kailash2"
 -'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
 |4,39,1,27,1659706632,"~/kailash2"
 -'  1  27  ~/kailash2
 |4,39,1,27,1659706632,"~/kailash2"
 
 # History of marks within files (newest to oldest):
+
+> ~/hale/mekailash
+	*	1659709074	0
+	"	1	23
+	^	1	24
+	.	1	23
+	+	1	23
+
+> ~/hale/rajkumar
+	*	1659709022	0
+	"	1	9
+	^	1	10
+	.	1	10
+	+	1	10
+
+> ~/hale/mom
+	*	1659708731	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
+	o	1	0
+	y	1	0
 
 > ~/myfile1.java
 	*	1659707581	0
