@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1659706692,,"wq"
+|2,0,1659707583,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,33 @@
 # Registers:
 
 # File marks:
-'0  1  27  ~/kailash2
-|4,48,1,27,1659706692,"~/kailash2"
+'0  1  11  ~/myfile1.java
+|4,48,1,11,1659707583,"~/myfile1.java"
 '1  1  27  ~/kailash2
-|4,49,1,27,1659706632,"~/kailash2"
+|4,49,1,27,1659706692,"~/kailash2"
+'2  1  27  ~/kailash2
+|4,50,1,27,1659706632,"~/kailash2"
 
 # Jumplist (newest first):
+-'  1  11  ~/myfile1.java
+|4,39,1,11,1659707583,"~/myfile1.java"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706692,"~/kailash2"
 -'  1  27  ~/kailash2
 |4,39,1,27,1659706692,"~/kailash2"
 -'  1  27  ~/kailash2
 |4,39,1,27,1659706632,"~/kailash2"
+-'  1  27  ~/kailash2
+|4,39,1,27,1659706632,"~/kailash2"
 
 # History of marks within files (newest to oldest):
+
+> ~/myfile1.java
+	*	1659707581	0
+	"	1	11
+	^	1	12
+	.	1	12
+	+	1	12
 
 > ~/kailash2
 	*	1659706689	0
